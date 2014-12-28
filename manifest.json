@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-
   "name": "ui5-detector",
+  "short_name": "UI5 Detector",
   "description": "Detects SAP UI5 and OpenUI5 apps as you browse.",
   "author": "Vadim Tomnikov",
   "version": "1.0.0",
